@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\CSProject\Lab_3_MPI\Lab_3_MPI\main.cpp(82,92): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\CSProject\Lab_3_MPI\Lab_3_MPI\main.cpp(134,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Lab_3_MPI.vcxproj -> D:\CSProject\Lab_3_MPI\x64\Debug\Lab_3_MPI.exe
